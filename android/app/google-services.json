@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139263092189",
+    "project_id": "lieferfood-b690f",
+    "storage_bucket": "lieferfood-b690f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139263092189:android:804c0e003d5d5bade48234",
+        "android_client_info": {
+          "package_name": "com.lieferfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139263092189-e5r6dn40e3262njcld8dacreggtvn1fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lieferfood",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "139263092189-bcm7g7osb7v9blh7ied22p38d5f2m8tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcituB3Oxwvk_dv8KtxUXiKaNiDnUk_pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139263092189-bcm7g7osb7v9blh7ied22p38d5f2m8tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
